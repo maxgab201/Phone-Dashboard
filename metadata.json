@@ -1,0 +1,6 @@
+{
+  "name": "Phone Dashboard",
+  "description": "A premium, glassmorphism-styled device dashboard displaying real-time system, CPU, GPU, RAM, network, battery, and sensor analytics with elegant animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
